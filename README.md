@@ -1,8 +1,9 @@
 # waves-lite-client
-This is online web-wallet for Waves with Waves DEX.
+This is [online web-wallet](https://waveswallet.io/) for [Waves](https://coinmarketcap.com/currencies/waves/#markets) with [Waves DEX](https://client.wavesplatform.com/#!/dex-demo).
 
 Online version is available here: https://waveswallet.io/
-but this is [not supported now](https://github.com/wavesplatform/WavesGUI/issues/1415#issuecomment-504853747), and there is the version [v0.5.22 in the scripts](https://github.com/wavesplatform/WavesGUI/issues/1415#issue-459681928).
+but this is [not supported now](https://github.com/wavesplatform/WavesGUI/issues/1415#issuecomment-504853747),
+and there is the version [v0.5.22 in the scripts](https://github.com/wavesplatform/WavesGUI/issues/1415#issue-459681928).
 
 This wallet is open source and can working locally from zip-file.
 Seed and private key is writted locally in LocalStorage, as encrypted data.
@@ -13,7 +14,9 @@ in the tab of your browser.
 The latest stable version is v0.5.18.
 This was been cloned from here: https://github.com/wavesplatform/WavesGUI/releases/tag/v0.5.18
 You can find all this files in [Releases](https://github.com/username1565/waves-lite-client/releases).
+
 Here will be published the source code of this waves-lite-client to modify this code. See the commits.
+Only source code of JavaScript-files.
 
 Hashes of this four files with original version [v0.5.18](https://github.com/wavesplatform/WavesGUI/releases/tag/v0.5.18):
 
