@@ -9,7 +9,7 @@ This is [online web-wallet](https://waveswallet.io/) for [Waves](https://coinmar
 Online version is available here: https://waveswallet.io/
 
 but this is [not supported now](https://github.com/wavesplatform/WavesGUI/issues/1415#issuecomment-504853747),
-and there is the version [v0.5.22 in the scripts](https://github.com/wavesplatform/WavesGUI/issues/1415#issue-459681928).
+and there is the version [v0.5.22](https://waveswallet.io/js/waves-lite-client-mainnet-0.5.22.js) [in the scripts](https://github.com/wavesplatform/WavesGUI/issues/1415#issue-459681928).
 
 ___________________________________________________________________________________________________
 
@@ -24,6 +24,7 @@ To use this, just unpack the **waves-lite-client-mainnet-v0.5.18.zip**
 to any folder and open index.html
 
 in the tab of your browser.
+
 ___________________________________________________________________________________________________
 
 
@@ -40,6 +41,8 @@ You can find all this files in [Releases](https://github.com/username1565/waves-
 Here [will be published the source code of this waves-lite-client](https://github.com/wavesplatform/WavesGUI/issues/1415#issuecomment-504991767) to modify, fix, and repair this code. See the commits, open the pull requests.
 Only source code of JavaScript-files will be contains in this repositary.
 Just unzipped **waves-lite-client-mainnet-v0.5.18.zip**
+
+ONLINE VERSION OF THE FILES FROM THIS REPOSITARY - IS AVAILABLE HERE: https://username1565.github.io/waves-lite-client/
 ___________________________________________________________________________________________________
 
 
