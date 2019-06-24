@@ -37,9 +37,9 @@ You can find all this files in [Releases](https://github.com/username1565/waves-
 
 
 
-Here will be published the source code of this waves-lite-client to modify this code. See the commits.
-
-Only source code of JavaScript-files.
+Here [will be published the source code of this waves-lite-client](https://github.com/wavesplatform/WavesGUI/issues/1415#issuecomment-504991767) to modify, fix, and repair this code. See the commits, open the pull requests.
+Only source code of JavaScript-files will be contains in this repositary.
+Just unzipped **waves-lite-client-mainnet-v0.5.18.zip**
 ___________________________________________________________________________________________________
 
 
