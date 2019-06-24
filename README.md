@@ -2,16 +2,13 @@
 
 
 
-This is [online web-wallet](https://waveswallet.io/) for [Waves](https://coinmarketcap.com/currencies/waves/#markets)
-
-with [Waves DEX](https://client.wavesplatform.com/#!/dex-demo).
+This is [online web-wallet](https://waveswallet.io/) for [Waves](https://coinmarketcap.com/currencies/waves/#markets) with [Waves DEX](https://client.wavesplatform.com/#!/dex-demo).
 
 
 
 Online version is available here: https://waveswallet.io/
 
 but this is [not supported now](https://github.com/wavesplatform/WavesGUI/issues/1415#issuecomment-504853747),
-
 and there is the version [v0.5.22 in the scripts](https://github.com/wavesplatform/WavesGUI/issues/1415#issue-459681928).
 
 ___________________________________________________________________________________________________
