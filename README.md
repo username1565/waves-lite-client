@@ -43,7 +43,9 @@ Only source code of JavaScript-files will be contains in this repositary.
 Just unzipped **waves-lite-client-mainnet-v0.5.18.zip**
 ___________________________________________________________________________________________________
 
-ONLINE VERSION OF THE FILES FROM THIS REPOSITARY - IS AVAILABLE HERE: https://username1565.github.io/waves-lite-client/
+ONLINE VERSION OF THE FILES FROM THIS REPOSITARY - IS AVAILABLE HERE:
+
+https://username1565.github.io/waves-lite-client/
 
 THIS IS JUST DEMO. DO NOT use the web-version from my github-page, [because my account was been flagged within a week.](https://github.com/username1565/waves-lite-client/issues/2)
 
