@@ -49,9 +49,11 @@ https://username1565.github.io/waves-lite-client/
 
 THIS IS JUST DEMO. DO NOT use the web-version from my github-page,
 
-[because my account was been flagged within a week.](https://github.com/username1565/waves-lite-client/issues/2)
+[because my GITHUB-account was been flagged within a week.](https://github.com/username1565/waves-lite-client/issues/2)
 
 I strongly recommend to download original archive of the latest stable version [v0.5.18](https://github.com/wavesplatform/WavesGUI/releases/tag/v0.5.18), and using it locally.
+
+**If my account will be flagged, this DEMO, this repo, this README.md, and that issue will not be available for reading.**
 ___________________________________________________________________________________________________
 
 
