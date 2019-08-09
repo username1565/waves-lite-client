@@ -41,14 +41,13 @@ You can find all this files in [Releases](https://github.com/username1565/waves-
 Here [will be published the source code of this waves-lite-client](https://github.com/wavesplatform/WavesGUI/issues/1415#issuecomment-504991767) to modify, fix, and repair this code. See the commits, open the pull requests.
 Only source code of JavaScript-files will be contains in this repositary.
 Just unzipped **waves-lite-client-mainnet-v0.5.18.zip**
+___________________________________________________________________________________________________
 
 ONLINE VERSION OF THE FILES FROM THIS REPOSITARY - IS AVAILABLE HERE: https://username1565.github.io/waves-lite-client/
 
-THIS IS JUST DEMO.
+THIS IS JUST DEMO. DO NOT use the web-version from my github-page, [because my account was been flagged within a week.](https://github.com/username1565/waves-lite-client/issues/2)
 
 I strongly recommend to download original archive of the latest stable version [v0.5.18](https://github.com/wavesplatform/WavesGUI/releases/tag/v0.5.18), and using it locally.
-
-[DO NOT use the web-version from my github-page.](https://github.com/username1565/waves-lite-client/issues/2)
 ___________________________________________________________________________________________________
 
 
