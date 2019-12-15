@@ -4,12 +4,10 @@
 
 This is original client-side [web-wallet](https://waveswallet.io/) for [Waves](https://coinmarketcap.com/currencies/waves/#markets) with [Waves DEX](https://waves.exchange/dex-demo) - waves-lite-client.
 
-
-
-Online version is available here: https://waveswallet.io/
+Online version of old waves-lite-client was been available here: https://waveswallet.io/
 
 but this is [not supported now](https://github.com/wavesplatform/WavesGUI/issues/1415#issuecomment-504853747),
-and there is the version [v0.5.22](https://waveswallet.io/js/waves-lite-client-mainnet-0.5.22.js) [in the scripts](https://github.com/wavesplatform/WavesGUI/issues/1415#issue-459681928).
+and there is the version [v0.5.22](https://waveswallet.io/js/waves-lite-client-mainnet-0.5.22.js) [in the scripts](https://github.com/wavesplatform/WavesGUI/issues/1415#issue-459681928), and now this is not working.
 
 ___________________________________________________________________________________________________
 
@@ -43,9 +41,9 @@ Only source code of JavaScript-files will be contains in this repositary.
 Just unzipped **waves-lite-client-mainnet-v0.5.18.zip**
 ___________________________________________________________________________________________________
 
-ONLINE VERSION OF THE FILES FROM THIS REPOSITARY - IS AVAILABLE HERE:
+ONLINE VERSION OF THE FILES FROM THIS REPOSITARY - IS NOT AVAILABLE HERE:
 
-https://username1565.github.io/waves-lite-client/
+https://username1565.github.io/waves-lite-client/ (there is modified version of waves-lite-client, from [this branch](https://github.com/username1565/waves-lite-client/tree/master))
 
 THIS IS JUST DEMO. DO NOT use the web-version from my github-page,
 
