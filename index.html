@@ -41,11 +41,11 @@
 <!-- LOG IN AREA -->
 <div id="lockscreen" class="userBG" ng-controller="accountsController as accounts" ng-switch-when="accounts-screen" ng-cloak>
   <div class="banner">
-    <div class="banner-content">
-      <img src="img/warning_icon.svg"/> Google is shutting down its Chrome Web Store.
-      Save your secret phrase (SEED) and start using our new desktop application.
-      Download it from the official Waves site <a href="https://wavesplatform.com" target="_blank">wavesplatform.com</a>,
-      or use the web client <a href="https://beta.wavesplatform.com" target="_blank">beta.wavesplatform.com</a>
+    <div class="banner-content" onclick="document.getElementsByClassName('banner-content')[0].style.display='none';" title="Got it, hide after click.">
+      <img src="img/warning_icon.svg"/> This is modified version of <a href="https://waveswallet.io/">waves-lite-client</a>.<br>
+      You can download it from the official Waves repositary <a href="https://github.com/wavesplatform/WavesGUI/releases/tag/v0.5.18" target="_blank">waves-lite-client-mainnet-v0.5.18.zip</a>,
+      and <a href="https://github.com/username1565/waves-lite-client/releases" target="_blank">here</a>, and using locally, client-side.<br>
+	  Also you can use the web client <a href="https://waves.exchange/dex-demo" target="_blank">https://waves.exchange/</a><br>
     </div>
   </div>
   <table id="lockscreenTable">
