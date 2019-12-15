@@ -2,7 +2,7 @@
 
 
 
-This is [online web-wallet](https://waveswallet.io/) for [Waves](https://coinmarketcap.com/currencies/waves/#markets) with [Waves DEX](https://client.wavesplatform.com/#!/dex-demo).
+This is original client-side [web-wallet](https://waveswallet.io/) for [Waves](https://coinmarketcap.com/currencies/waves/#markets) with [Waves DEX](https://waves.exchange/dex-demo) - waves-lite-client.
 
 
 
