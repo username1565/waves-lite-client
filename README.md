@@ -2,7 +2,8 @@
 
 
 
-This is [online web-wallet](https://waveswallet.io/) for [Waves](https://coinmarketcap.com/currencies/waves/#markets) with [Waves DEX](https://client.wavesplatform.com/#!/dex-demo).
+This is MODIFIED [online web-wallet](https://waveswallet.io/) for [Waves](https://coinmarketcap.com/currencies/waves/#markets) with [Waves DEX](https://waves.exchange/dex-demo) - waves-lite-client. Original waves-lite-client, you can see [here, on this branch](https://github.com/username1565/waves-lite-client/tree/original-waves-lite-client), and [here, in releases](https://github.com/username1565/waves-lite-client/releases/tag/v0.5.18)
+This is the main branch for this fork, and this is available, online - here: http://username1565.github.io/waves-lite-client/
 
 
 
